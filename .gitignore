@@ -2,3 +2,9 @@ Logs/
 Logs/*
 Temp/
 Temp/*
+Library/
+Library/*
+Packages/
+Packages/*
+.idea/
+.idea/.*
